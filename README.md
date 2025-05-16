@@ -4,7 +4,7 @@
 ## Project Overview  
 This project analyzes over 9,000 sales records from a major Superstore using SQL and uncover regional revenue trends, and top-performing products. By understanding which segments, regions, and items generate the most revenue and profit, stakeholders can make smarter business decisions, optimize inventory, and identify underperforming areas.
 
-** Research Question**: What sales patterns emerge across regions, products, and employees — and what are the revenue implications?
+** Research Question** What sales patterns emerge across regions, products, and employees — and what are the revenue implications?
 
 ---
 
